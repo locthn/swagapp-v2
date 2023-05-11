@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: At Page_inventory_html click on hyperlink_object --> navigate to Page_cart_html",
+        "step 2: At Page_cart_html click on button_checkout --> navigate to Page_checkout-step-one_html",
+        "step 3: Add visual checkpoint at Page_checkout-step-one_html"
+    ]
+}

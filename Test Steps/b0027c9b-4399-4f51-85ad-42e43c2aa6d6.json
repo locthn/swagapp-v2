@@ -1,0 +1,6 @@
+{
+    "steps": [
+        "step 1: At Page_inventory_html click on hyperlink_item_4_img_link --> navigate to Page_inventory-item_html",
+        "step 2: Add visual checkpoint at Page_inventory-item_html"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "steps": [
+        "step 1: At Page_checkout-complete_html click on button_react_burger_menu_btn",
+        "step 2: Add visual checkpoint at Page_checkout-complete_html"
+    ]
+}
